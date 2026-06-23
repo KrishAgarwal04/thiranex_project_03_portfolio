@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A premium, production-ready To-Do List application featuring comprehensive task metrics, drag-and-drop orchestration, fluid transitions, and advanced filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
